@@ -3,7 +3,7 @@
 
 ## Cara Install & Run Di Termux
 ```
-$ git clone https://github.com/ViperM4sk/cpanel-xss-177.git
+$ git clone https://github.com/ArmaX1445/arma-spam.git
 $ cd arma-spam
 $ php arma-spam.php
 ```
