@@ -4,8 +4,8 @@
 ## Cara Install & Run Di Termux
 ```
 $ git clone https://github.com/ViperM4sk/cpanel-xss-177.git
-$ cd cpanel-xss-177
-$ python3 cpanel-xss-177.py
+$ cd arma-spam
+$ php arma-spam.php
 ```
 ## Disclaimer
 - Jangan gunakan tool ni untuk any illegal activities...saya tidak akan bertanggungjawab atas apa yg kamu lakukan dari segi undang2 dan seumpama dengannya.
